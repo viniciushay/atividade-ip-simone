@@ -1,0 +1,34 @@
+Microsoft Windows [versão 10.0.26100.9168]
+(c) Microsoft Corporation. Todos os direitos reservados.
+
+C:\Users\aluno>ipconfig
+
+Configuração de IP do Windows
+
+
+Adaptador Ethernet Ethernet:
+
+   Sufixo DNS específico de conexão. . . . . . :
+   Endereço IPv6 de link local . . . . . . . . : fe80::25d:272e:99c5:578e%10
+   Endereço IPv4. . . . . . . .  . . . . . . . : 10.15.10.90
+   Máscara de Sub-rede . . . . . . . . . . . . : 255.255.128.0
+   Gateway Padrão. . . . . . . . . . . . . . . : 10.15.0.2
+
+Adaptador de Rede sem Fio Conexão Local* 1:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Conexão Local* 2:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+Adaptador de Rede sem Fio Wi-Fi:
+
+   Estado da mídia. . . . . . . . . . . . . .  : mídia desconectada
+   Sufixo DNS específico de conexão. . . . . . :
+
+C:\Users\aluno>
+
+
