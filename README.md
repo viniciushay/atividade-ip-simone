@@ -1,4 +1,4 @@
-# atividade-ip-simone
+# atividade-sistemas-distribuidos-aula01
 
 Qual endereço IP apareceu?
 R= 142.250.219.238
